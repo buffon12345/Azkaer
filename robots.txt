@@ -1,0 +1,3 @@
+Sitemap: https://buffon12345.github.io/Azkaer/sitemap.xml
+User-agent: *
+Disallow:
